@@ -6,6 +6,7 @@
   --foreground-rgb: 0, 0, 0;
   --background-rgb: 245, 245, 245;
   --link-color: 0, 0, 255;
+  scroll-behavior: smooth;
 }
 
 @media (prefers-color-scheme: dark) {
