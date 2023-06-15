@@ -11,7 +11,12 @@ export default function TechnicalStuff() {
         </li>
         <li>
           On the backend, I build most of my projects using Node.js and
-          Express.js. However, I am also experimenting with Python and Go.
+          Express.js. However, I have also worked with Python&apos;s FastAPI and
+          Golang&apos;s Gin.
+        </li>
+        <li>
+          I am interested in distributed systems and making sure they are
+          scalable.
         </li>
       </ul>
     </>

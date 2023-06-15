@@ -8,7 +8,7 @@ export default function AboutMe() {
           of Singapore (NUS).
         </li>
         <li>
-          I am a software engineer at{" "}
+          I am a tech lead and software engineer at{" "}
           <a
             href="https://dsc.comp.nus.edu.sg/"
             target="_blank"
@@ -21,6 +21,11 @@ export default function AboutMe() {
         <li>
           I am a full-stack software engineer, with professional experience
           mostly in web development.
+        </li>
+        <li>
+          I have strong domain knowledge in the Southeast Asian real estate
+          market and sustainable finance. I am also adept at creating SEO
+          friendly sites.
         </li>
       </ul>
     </>

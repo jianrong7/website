@@ -11,8 +11,8 @@ export default function WorkExperience() {
               rel="noreferrer noopener"
             >
               London Stock Exchange Group
-            </a>{" "}
-            - Software Engineer Intern - Singapore
+            </a>
+            , Singapore - Software Engineer Intern
           </h3>
           <p>
             This is a 12-week summer internship with the sustainable finance
@@ -29,15 +29,14 @@ export default function WorkExperience() {
               rel="noreferrer noopener"
             >
               99 Group
-            </a>{" "}
-            - Software Engineer Intern - Singapore
+            </a>
+            , Singapore- Software Engineer Intern
           </h3>
           <p>
             This is a 7-month internship with the organic growth team at 99
             Group&apos;s Singapore office, and I worked mostly using JavaScript.
             My responsibilities include building new features for the
-            marketplace as well as optimising them for optimal performance on
-            Google.
+            marketplace as well as optimising them for Google.
           </p>
         </li>
       </ul>

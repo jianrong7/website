@@ -42,11 +42,12 @@ export default function Header() {
             className="rounded-full"
             quality={100}
             priority={true}
+            title="Profile Picture"
           />
           <p>
             I am based in Singapore. You can reach out to me at{" "}
             <code
-              className="cursor-pointer"
+              className="cursor-pointer tooltip"
               onClick={() =>
                 navigator.clipboard.writeText("lohjianrong7@gmail.com")
               }
