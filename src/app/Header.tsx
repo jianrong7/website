@@ -40,8 +40,8 @@ export default function Header() {
             height={150}
             alt="profile"
             className="rounded-full"
-            quality={100}
-            priority={true}
+            quality={90}
+            priority
             title="Profile Picture"
           />
           <p>
