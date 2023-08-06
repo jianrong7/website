@@ -17,8 +17,9 @@ export default function WorkExperience() {
           <p>
             This is a 12-week summer internship with the sustainable finance
             team at LSEG&apos;s Singapore office, and I worked mostly using
-            JavaScript and Node.js. My responsibilities include building SaaS
-            products for clients to track their carbon emissions.
+            JavaScript (React), Python (FastAPI), and Terraform. My
+            responsibilities include building SaaS products for clients to track
+            their carbon emissions.
           </p>
         </li>
         <li>
@@ -34,8 +35,8 @@ export default function WorkExperience() {
           </h3>
           <p>
             This is a 7-month internship with the organic growth team at 99
-            Group&apos;s Singapore office, and I worked mostly using JavaScript.
-            My responsibilities include building new features for the
+            Group&apos;s Singapore office, and I worked mostly using JavaScript
+            (React). My responsibilities include building new features for the
             marketplace as well as optimising them for Google.
           </p>
         </li>

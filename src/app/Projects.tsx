@@ -6,6 +6,23 @@ export default function Projects() {
         <li className="mb-2">
           <h3 className="font-semibold">
             <a
+              href="https://github.com/jianrong7/orbital-23"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              API Gateway in Golang (External project with TikTok)
+            </a>
+          </h3>
+          <p>
+            This is a 3-month long project where my partner and I worked on
+            building an API Gateway which translates JSON body requests to
+            Thrift binary format. This was done using ByteDance&apos;s
+            open-source frameworks Hertz and Kitex.
+          </p>
+        </li>
+        <li className="mb-2">
+          <h3 className="font-semibold">
+            <a
               href="https://github.com/source-academy"
               target="_blank"
               rel="noreferrer noopener"

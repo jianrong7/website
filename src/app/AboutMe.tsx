@@ -16,7 +16,8 @@ export default function AboutMe() {
           >
             Developer Student Clubs @ NUS
           </a>
-          .
+          . I have built software for Diabetes Singapore and am currently
+          building a solution for Caregivers Alliance.
         </li>
         <li>
           I am a full-stack software engineer, with professional experience
