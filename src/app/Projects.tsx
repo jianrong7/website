@@ -17,7 +17,8 @@ export default function Projects() {
             This is a 3-month long project where my partner and I worked on
             building an API Gateway which translates JSON body requests to
             Thrift binary format. This was done using ByteDance&apos;s
-            open-source frameworks Hertz and Kitex.
+            open-source frameworks Hertz and Kitex. We achieved an A grade for
+            this project.
           </p>
         </li>
         <li className="mb-2">
@@ -53,7 +54,7 @@ export default function Projects() {
           </h3>
           <p>
             Full-stack web forum clone. I built the frontend using React and
-            TypeScript. I build the backend using Go and Gin. The project is
+            TypeScript. I built the backend using Go and Gin. The project is
             also dockerized with its own CI/CD pipeline.
           </p>
         </li>

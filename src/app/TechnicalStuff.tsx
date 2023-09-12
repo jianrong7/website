@@ -11,9 +11,11 @@ export default function TechnicalStuff() {
         </li>
         <li className="mb-2">
           On the backend, I build projects with a variety of languages and
-          frameworks, ranging from Node.js, to Python, to Golang. I would say
-          Python&apos;s FastAPI has provided me with the best developer
-          experience so far.
+          frameworks, ranging from Node.js, to Python, to Golang. While
+          Python&apos;s FastAPI has provided with me the best experience,
+          Golang&apos;s Fiber has been really performant for production-ready
+          apps. Also, the arrivel of Bun brings about an interesting proposition
+          of using JavaScript for the backend while still remaining performant.
         </li>
         <li className="mb-2">
           I am also deeply interested in software architecture and making sure

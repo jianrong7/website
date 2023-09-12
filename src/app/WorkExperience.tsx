@@ -31,13 +31,14 @@ export default function WorkExperience() {
             >
               99 Group
             </a>
-            , Singapore- Software Engineer Intern
+            , Singapore - Software Engineer Intern
           </h3>
           <p>
-            This is a 7-month internship with the organic growth team at 99
-            Group&apos;s Singapore office, and I worked mostly using JavaScript
-            (React). My responsibilities include building new features for the
-            marketplace as well as optimising them for Google.
+            This is a 7-month internship and 5-month part-time role with the
+            organic growth team at 99 Group&apos;s Singapore office, and I
+            worked mostly using JavaScript (React). My responsibilities include
+            building new features for the marketplace as well as optimising them
+            for Google.
           </p>
         </li>
       </ul>
