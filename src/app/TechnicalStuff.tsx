@@ -14,7 +14,7 @@ export default function TechnicalStuff() {
           frameworks, ranging from Node.js, to Python, to Golang. While
           Python&apos;s FastAPI has provided with me the best experience,
           Golang&apos;s Fiber has been really performant for production-ready
-          apps. Also, the arrivel of Bun brings about an interesting proposition
+          apps. Also, the arrival of Bun brings about an interesting proposition
           of using JavaScript for the backend while still remaining performant.
         </li>
         <li className="mb-2">
