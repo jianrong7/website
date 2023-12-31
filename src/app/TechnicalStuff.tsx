@@ -11,16 +11,14 @@ export default function TechnicalStuff() {
         </li>
         <li className="mb-2">
           On the backend, I build projects with a variety of languages and
-          frameworks, ranging from Node.js, to Python, to Golang. While
-          Python&apos;s FastAPI has provided with me the best experience,
-          Golang&apos;s Fiber has been really performant for production-ready
-          apps. Also, the arrival of Bun brings about an interesting proposition
-          of using JavaScript for the backend while still remaining performant.
+          frameworks, ranging from Node.js, to Python, to Golang. I have greatly
+          enjoyed the developer experience of Python&lsquo;s FastAPI and
+          Golang&lsquo;s Fiber.
         </li>
         <li className="mb-2">
           I am also deeply interested in software architecture and making sure
-          they are scalable. I prefer to find the right tool for the job,
-          instead of trying to force-fit microservices into every project I do.
+          they are scalable. I prefer to find the right tool for the job, often
+          looking for the &quot;good enough&quot;, instead of the perfect.
         </li>
         <li className="mb-2">
           I have also recently tried out prompt engineering, a passion fueled by

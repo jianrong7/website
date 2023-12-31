@@ -16,8 +16,10 @@ export default function AboutMe() {
           >
             Developer Student Clubs @ NUS
           </a>
-          . I have built software for Diabetes Singapore and am currently
-          building a solution for Caregivers Alliance.
+          . I have built a stakeholder management system for Diabetes Singapore.
+          I am also currently building a donation platform for Caregivers
+          Alliance. These opportunities taught me how to engineer good products
+          while minimizing costs.
         </li>
         <li className="mb-2">
           I am a full-stack software engineer, with professional experience
