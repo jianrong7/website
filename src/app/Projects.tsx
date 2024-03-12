@@ -24,27 +24,6 @@ export default function Projects() {
         <li className="mb-2">
           <h3 className="font-semibold">
             <a
-              href="https://github.com/source-academy"
-              target="_blank"
-              rel="noreferrer noopener"
-            >
-              Source Academy
-            </a>
-          </h3>
-          <p>
-            This is a semester long project where my partner and I worked on the
-            open-source platform NUS uses to teach freshmen foundational
-            programming concepts.
-          </p>
-          <p>
-            We integrated the latest WebGPU standard into Source to parallelize
-            audio processing using the GPU, resulting in performance
-            improvements by up to 20 times.
-          </p>
-        </li>
-        <li className="mb-2">
-          <h3 className="font-semibold">
-            <a
               href="https://github.com/jianrong7/cvwo-fe"
               target="_blank"
               rel="noreferrer noopener"

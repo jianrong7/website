@@ -5,9 +5,9 @@ export default function WorkExperience() {
     <>
       <h2 className="mt-6 text-xl font-semibold">Work Experience</h2>
       <ul className="flex flex-col gap-8 p-0 md:gap-6">
-        <li className="list-none">
-          <div className="flex flex-col items-center gap-4 md:flex-row">
-            <Image src="/lseg.png" alt="LSEG Logo" width={96} height={96} />
+        <li className="list-none ml-3">
+          <div className="flex flex-col items-center gap-7 md:flex-row">
+            <Image src="/lseg.jpeg" alt="LSEG Logo" width={72} height={72} />
             <div>
               <h3 className="font-semibold">
                 <a
