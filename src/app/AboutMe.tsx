@@ -1,11 +1,11 @@
 export default function AboutMe() {
   return (
     <>
-      <h2 className="mt-6 text-xl font-semibold">About me</h2>
+      <h2 className="mt-6 text-xl font-semibold">whoami</h2>
       <ul>
         <li className="mb-2">
           I am currently a Computer Science sophomore from National University
-          of Singapore (NUS).
+          of Singapore (NUS), with a specialisation in parallel computing.
         </li>
         <li className="mb-2">
           I am a full-stack software engineer, with professional experience

@@ -1,7 +1,7 @@
 export default function Projects() {
   return (
     <>
-      <h2 className="mt-6 text-xl font-semibold">Projects</h2>
+      <h2 className="mt-6 text-xl font-semibold">projects</h2>
       <ul>
         <li className="mb-2">
           <h3 className="font-semibold">

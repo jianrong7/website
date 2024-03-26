@@ -1,9 +1,7 @@
 export default function ExtraCurriculars() {
   return (
     <>
-      <h2 className="mt-6 text-xl font-semibold">
-        Extra Curricular Activities
-      </h2>
+      <h2 className="mt-6 text-xl font-semibold">extra-curriculars</h2>
       <ul>
         <li className="mb-2">
           <h3 className="font-semibold">

@@ -1,7 +1,7 @@
 export default function Teaching() {
   return (
     <>
-      <h2 className="mt-6 text-xl font-semibold">Teaching</h2>
+      <h2 className="mt-6 text-xl font-semibold">teaching</h2>
       <ul>
         <li className="mb-2">
           <a

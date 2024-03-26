@@ -13,16 +13,16 @@ export default function Header() {
             <span className="border-b-2">Jian Rong</span> Loh
           </h1>
           <nav className="flex justify-between text-base">
-            <Link href="/">About</Link>
+            <Link href="/">whoami</Link>
             <span className="mx-2">/</span>
-            <a href="/jianrong_loh_resume.pdf">Resume</a>
+            <a href="/jianrong_loh_resume.pdf">resume</a>
             <span className="mx-2">/</span>
             <a
               href="https://www.linkedin.com/in/jianrong7/"
               target="_blank"
               rel="noreferrer noopener"
             >
-              LinkedIn
+              linkedin
             </a>
             <span className="mx-2">/</span>
             <a
@@ -30,7 +30,7 @@ export default function Header() {
               target="_blank"
               rel="noreferrer noopener"
             >
-              GitHub
+              github
             </a>
           </nav>
         </div>
@@ -47,7 +47,8 @@ export default function Header() {
             title="Profile Picture"
           />
           <p>
-            I am based in Singapore. You can reach out to me at{" "}
+            I am a software engineer based in Singapore. You can reach out to me
+            at{" "}
             <code
               className="cursor-pointer tooltip"
               onClick={() =>

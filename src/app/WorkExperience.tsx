@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function WorkExperience() {
   return (
     <>
-      <h2 className="mt-6 text-xl font-semibold">Work Experience</h2>
+      <h2 className="mt-6 text-xl font-semibold">work</h2>
       <ul className="flex flex-col gap-8 p-0 md:gap-6">
         <li className="list-none ml-3">
           <div className="flex flex-col items-center gap-7 md:flex-row">
