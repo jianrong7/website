@@ -21,11 +21,6 @@ export default function TechnicalStuff() {
           things. Whether it is through using new technologies or adopting new
           practices.
         </li>
-        <li className="mb-2">
-          I have also recently tried out prompt engineering, a passion fueled by
-          the arrival of ChatGPT, the release of Meta&apos;s LLM, Llama2, and
-          the rising popularity of LangChain.
-        </li>
       </ul>
     </>
   );
