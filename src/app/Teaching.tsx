@@ -14,9 +14,25 @@ export default function Teaching() {
           Trainer
         </li>
         <li className="mb-2">
-          CS2030S Programming Methodology II - AY23/24 S2
+          <a
+            href="https://nusmods.com/courses/CS2030S/programming-methodology-ii"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            CS2030S Programming Methodology II
+          </a>{" "}
+          - AY23/24 S2
         </li>
-        <li className="mb-2">CS1101S Programming Methodology I - AY23/24 S1</li>
+        <li className="mb-2">
+          <a
+            href="https://nusmods.com/courses/CS1101S/programming-methodology"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            CS1101S Programming Methodology I
+          </a>{" "}
+          - AY23/24 S1
+        </li>
       </ul>
     </>
   );
