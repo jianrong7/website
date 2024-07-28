@@ -12,9 +12,8 @@ export default function AboutMe() {
           I am a full-stack software engineer, with 3 internships under my belt.
         </li>
         <li className="mb-2">
-          I have strong domain knowledge in the Southeast Asian real estate
-          market and sustainable finance. I am also adept at creating SEO
-          friendly sites.
+          Areas of subject matter expertise include: real estate, sustainable
+          finance, and programmatic advertising.
         </li>
       </ul>
     </>
