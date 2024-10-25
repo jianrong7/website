@@ -7,7 +7,7 @@ import profile from "../../public/profile.jpeg";
 export default function Header() {
   return (
     <>
-      <header className="flex flex-col px-12 pt-12 gap-4">
+      <header className="flex flex-col px-8 sm:px-12 pt-12 gap-4">
         <div className="flex flex-col items-center sm:flex-row sm:justify-between">
           <h1 className="text-3xl my-2">
             <span className="border-b-2">Jian Rong</span> Loh
