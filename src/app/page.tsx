@@ -9,14 +9,19 @@ import Teaching from "./Teaching";
 export default function Home() {
   return (
     <>
-      <Header />
+      <div className="p-4">
+        <p>lohjianrong7@gmail.com</p>
+        <p>:)</p>
+      </div>
+
+      {/* <Header /> */}
       <main className="flex min-h-screen flex-col px-8 sm:px-12 pb-12">
-        <AboutMe />
-        <WorkExperience />
+        {/* <AboutMe /> */}
+        {/* <WorkExperience /> */}
         {/* <ExtraCurriculars /> */}
-        <Projects />
+        {/* <Projects /> */}
         {/* <TechnicalStuff /> */}
-        <Teaching />
+        {/* <Teaching /> */}
       </main>
     </>
   );
